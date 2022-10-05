@@ -210,6 +210,8 @@ img {
 .home__social {
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  padding-right: 850px;
 }
 
 .home__social-icon {
